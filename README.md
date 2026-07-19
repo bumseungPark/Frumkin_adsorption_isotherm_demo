@@ -10,10 +10,10 @@ The code structure was developed during my M.S. research on electrocatalyst surf
 📁frumkin-adsorption-isotherm-demo/
 ├── README.md
 ├── requirements.txt
-├── 📁src/
+├── 📁src
 │     ├── solver.py
 │     └── plot_coverage.py
-├── 📁examples/
+├── 📁examples
 │      └── run_demo.py
-└── 📁outputs/
+└── 📁outputs
        └── demo_coverage_plot.png
