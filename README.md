@@ -6,7 +6,12 @@ The code structure was developed during my M.S. research on electrocatalyst surf
 
 This model accounts for lateral adsorbate–adsorbate interactions (Frumkin parameter g) and potential-dependent adsorption free energies, enabling quantitative comparison of surface site availability across different catalyst interfaces.
 
-## Repository Structure
+### Quick start
+
+pip install -r requirements.txt
+python examples/run_demo.py
+
+### Repository Structure
 
 ```text
 📁frumkin-adsorption-isotherm-demo/
