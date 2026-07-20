@@ -26,3 +26,7 @@ python examples/run_demo.py
 │      └── run_demo.py
 └── 📁outputs
        └── demo_coverage_plot.png
+```
+
+### Example Output
+![Coverage Plot](outputs/demo_coverage_plot.png)
