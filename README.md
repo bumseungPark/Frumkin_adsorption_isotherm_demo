@@ -8,8 +8,10 @@ This model accounts for lateral adsorbate–adsorbate interactions (Frumkin para
 
 ### Quick start
 
+```bash
 pip install -r requirements.txt
 python examples/run_demo.py
+```
 
 ### Repository Structure
 
